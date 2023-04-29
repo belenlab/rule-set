@@ -63,5 +63,8 @@
 .t.me
 .telegram-cdn.org
 .bing.com
+.msn.com
+.bingapis.com
+.appcenter.ms
 .ai.com
 .openai.com
