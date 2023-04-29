@@ -64,5 +64,8 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai.com
