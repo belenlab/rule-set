@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bingapis.com
+DOMAIN,copilot.microsoft.com
