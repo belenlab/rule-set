@@ -1,7 +1,7 @@
 function FindProxyForURL(url, host) {
     // 定义本地网络直连
     var direct = 'DIRECT;';
-    var proxy = 'SOCKS5 127.0.0.1:2080';
+    var proxy = 'SOCKS localhost:2080';
 
     // 检查是否为特定的本地域名
     if (host.endsWith(".local")) {
